@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SwaggerClient
 
 彩票APP接口Swagger定义文件
@@ -273,3 +274,7 @@ Class | Method | HTTP request | Description
 yongxiangtiger@163.com
 
 
+=======
+# XC_Swagger
+火炬项目
+>>>>>>> 23131532d39b09ad071925ea9eb42a1397630cfd
